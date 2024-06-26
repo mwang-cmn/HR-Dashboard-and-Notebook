@@ -1,6 +1,6 @@
-# HR Data Analysis and Attrition 
+# Human Resources (HR) Dashboard
 ## Introduction
-
+In this project I will examine demographic data about employees of an organization and derive insights in Power BI. The dashboards include insights on employee satisfaction levels, performance rating, retrenchment and promotion status.
 ## Dashboard
 View the full dashboard [here]
 
