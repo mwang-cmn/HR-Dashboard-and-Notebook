@@ -18,3 +18,4 @@ In this project I will use 2 datasets that can be found [here](https://drive.goo
 
 
 
+![P_2](https://github.com/mwang-cmn/HR-Dashboard-and-Notebook/assets/73072045/eeafa639-c197-4bc2-be9b-8c6992120339)
