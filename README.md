@@ -2,7 +2,7 @@
 ## Introduction
 In this project I will examine demographic data about employees of an organization and derive insights in Power BI. The dashboards include insights on employee satisfaction levels, performance rating, retrenchment and promotion status.
 ## Dashboard
-View the full dashboard [here](https://github.com/mwang-cmn/HR-Dashboard-and-Notebook/blob/main/HR%20Dashboard.pbix)
+View the full dashboard [here](https://app.powerbi.com/groups/me/reports/cf300424-21dd-4cae-abdf-12c0b2c4996d/b51713db8b81393f7bb6?experience=power-bi)
 
 ## Data Understanding
 In this project I will use 2 datasets that can be found [here](https://drive.google.com/file/d/1h4bvZlHJUFAYJ5CbleAmLr6muAX1Q7rm/view)
